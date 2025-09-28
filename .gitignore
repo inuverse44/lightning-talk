@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Marp output files
+*.pdf
+*.html
+*.pptx
+
+# Node dependencies (if using Marp CLI)
+node_modules/
